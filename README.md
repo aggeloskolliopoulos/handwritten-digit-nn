@@ -1,6 +1,6 @@
 ### multiclass-nn / `README.md`
 ```markdown
-# Multiclass NN (MLP)
+## Multiclass NN (MLP)
 Απλό πολυκατηγορικό MLP (Keras/TensorFlow) για βασικά datasets/εικόνες.
 
 ## Απαιτήσεις
